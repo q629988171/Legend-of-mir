@@ -8,5 +8,6 @@ Pause
 Loop
 {
     Send, {F1}
+    Sleep, 500
 }
 ^J::Pause
